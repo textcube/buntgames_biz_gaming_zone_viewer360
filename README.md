@@ -11,6 +11,10 @@ Contact :
 
 About Us :
 
+![Alt Buntgames Mouse Pad Design](http://qatop.com/uploads/posts/mousepad_design_sample.jpg)
+![Alt Buntgames R&D Zone](http://qatop.com/uploads/posts/buntgames_advantages.png)
+
+
 [강점] :
 - 개발경력 20년 이상의 서버/클라이언트 창의적인 게임개발자 
 - 게임 소셜 미디어 및 소셜 네트워크 서비스 프로그래머 
